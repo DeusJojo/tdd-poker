@@ -1,0 +1,7 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(á‘¹úúÿÿÿÿ8—Ãó1J$91f56d41-d77a-4fd5-bbfb-c9b1d8f6e4ef
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(á‘¹úúÿÿÿÿ8“—Ãó1J$be18b728-f782-497b-a155-c651a140570b
+r
+java:S1068
+"*Remove this unused "COLORS" private field.(Êí²üûÿÿÿÿ8–—Ãó1J$38bf117e-dada-4b3a-85ab-4615352dbc27

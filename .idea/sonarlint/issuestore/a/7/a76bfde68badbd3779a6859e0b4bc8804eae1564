@@ -1,0 +1,24 @@
+
+}
+java:S1118":Add a private constructor to hide the implicit public one.(œ±íé8™ØÅó1J$89f501a4-c340-4a3e-b001-3b0abd2f594a
+w
+java:S1068"/Remove this unused "ROYAL_FLUSH" private field.(óû—Ûùÿÿÿÿ8¨ñ–Åó1J$ae55de6b-cde4-49f0-9e95-8c7d26897310
+u
+java:S1068"2Remove this unused "STRAIGHT_FLUSH" private field.(Ÿ‰¨ˆ8 ØÅó1J$8f5c9c05-c1b5-40d1-b9da-4bbe39581539
+z
+java:S1068"2Remove this unused "FOUR_OF_A_KIND" private field.(¯¤šØşÿÿÿÿ8Ã¸Åó1J$a4dae38e-15f2-4f36-a751-dcd4b60f9084
+q
+java:S1068".Remove this unused "FULL_HOUSE" private field.(ı”ûæ8Ë·‘Åó1J$8c8082c3-3bc5-4c4e-a98f-bfa400cbee36
+q
+java:S1068")Remove this unused "FLUSH" private field.(¯¥ú˜ÿÿÿÿÿ8Îü‘Åó1J$766a5f18-5578-4e10-904c-a59158ee41f5
+t
+java:S1068	",Remove this unused "STRAIGHT" private field.(ãÀè›úÿÿÿÿ8­Ñ’Åó1J$9abe8ec6-57f9-429d-a88a-439bcae9a31e
+v
+java:S1068
+"3Remove this unused "THREE_OF_A_KIND" private field.(­Ç8œ¬“Åó1J$34389223-84cf-4a2c-8a08-615021aaaa8a
+t
+java:S1068",Remove this unused "TWO_PAIR" private field.(äƒ»…úÿÿÿÿ8§ó”Åó1J$cd085998-0f6b-4116-825c-4874ea6929fa
+t
+java:S1068",Remove this unused "ONE_PAIR" private field.(çş¤ûÿÿÿÿ8´––Åó1J$2b2283c8-b092-4a04-886f-8e39ed999542
+u
+java:S1068"-Remove this unused "HIGH_CARD" private field.(ûƒåÀüÿÿÿÿ8©ñ–Åó1J$83687d8b-c2d2-42e9-93f9-fd0a832c2313
