@@ -2,13 +2,13 @@ package fr.jojo.utils;
 
 import fr.jojo.classe.Card;
 import fr.jojo.classe.CardGame;
+import fr.jojo.classe.Color;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
 public class GenerateDeck {
-    private static final String[] cardColors = {"Carreau", "Coeur", "Trèfle", "Pique"};
     private static final String[] cardValues = {"2", "3", "4", "5", "6", "7", "8", "9", "10",
                                                     "J", "Q", "K", "A"};
     private static final List<Card> cards = new ArrayList<>();
@@ -18,7 +18,7 @@ public class GenerateDeck {
         int i = 0;
 
         for(String cardValue : cardValues){
-            for(String cardColor : cardColors){
+            for(Color cardColor : Color.values()){
                 cards.add(new Card(cardValue, i , cardColor));
             }
             i++;

@@ -2,6 +2,7 @@ package fr.jojo.utils;
 
 import fr.jojo.classe.Card;
 import fr.jojo.classe.CardGame;
+import fr.jojo.classe.Color;
 import org.junit.jupiter.api.Test;
 
 import java.util.HashSet;
@@ -11,10 +12,10 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class GenerateDeckTest {
 
-    Card carreau2 = new Card("2", 0, "Carreau");
-    Card trefle10 = new Card("10", 8, "Trefle");
-    Card piqueAs = new Card("A", 12, "Pique");
-    Card coeurAs= new Card("A", 12, "Coeur");
+    Card carreau2 = new Card("2", 0, Color.CARREAU);
+    Card trefle10 = new Card("10", 8, Color.TREFLE);
+    Card piqueAs = new Card("A", 12, Color.PIQUE);
+    Card coeurAs= new Card("A", 12, Color.COEUR);
 
     @Test
     void countDeckCards(){

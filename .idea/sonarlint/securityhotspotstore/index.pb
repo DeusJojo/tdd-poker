@@ -1,8 +1,6 @@
 
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-O
-src/main/java/fr/jojo/main.java,5\9\592605910db684adc01b8009e0f63ea81487435b
 Z
 *src/main/java/fr/jojo/classe/CardGame.java,e\2\e2e45fcf6840af766677a00fb80847b26cfac1a1
 V
@@ -15,8 +13,6 @@ a
 1src/test/java/fr/jojo/utils/GenerateDeckTest.java,6\2\624387c98602cd6b36ad7cdad5095fd65b2df300
 U
 %src/main/java/fr/jojo/utils/Play.java,a\d\ad6031db9b01483e7a453afccebcdbd18a19fc4a
-X
-(src/main/java/fr/jojo/classe/Symbol.java,4\f\4f2f320cd7f399db3be1b44548b998d82f9458d1
 X
 (src/main/java/fr/jojo/classe/Height.java,4\f\4f51f3cda653e73fac5a98949a60f4d467f6efae
 d
@@ -33,3 +29,11 @@ X
 (src/main/java/fr/jojo/classe/player.java,1\3\1335e15bb686c3a4e605abacf8c196ec8ea07f16
 X
 (src/main/java/fr/jojo/classe/Player.java,6\6\66856076582f60ca3034ecb40daa780cef66e6f5
+]
+-src/main/java/fr/jojo/classe/Conbinaison.java,d\e\debaa96e97a161c59988d7f263c29b47c3a2edb2
+]
+-src/main/java/fr/jojo/classe/Combinaison.java,a\a\aaade609730e396fd2a78da0e6d41c730d235d2c
+a
+1src/test/java/fr/jojo/classe/CombinaisonTest.java,6\0\606e2559149397c3bd7c791402a1a34aef017bcd
+]
+-src/main/java/fr/jojo/classe/Combination.java,0\a\0a2418d13e176300974c92beaaf1819218fd3f83

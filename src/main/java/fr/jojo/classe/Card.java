@@ -6,9 +6,9 @@ public class Card implements Comparable<Card>{
 
     private String symbol;
     private Integer value;
-    private String color;
+    private Color color;
 
-    public Card(String symbol, int value, String color) {
+    public Card(String symbol, int value, Color color) {
         this.symbol = symbol;
         this.value = value;
         this.color = color;
@@ -22,11 +22,11 @@ public class Card implements Comparable<Card>{
         this.symbol = symbol;
     }
 
-    public String getColor() {
+    public Color getColor() {
         return color;
     }
 
-    public void setColor(String color) {
+    public void setColor(Color color) {
         this.color = color;
     }
 

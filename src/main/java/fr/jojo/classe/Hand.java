@@ -1,6 +1,6 @@
 package fr.jojo.classe;
 
-import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 public class Hand {
@@ -8,6 +8,7 @@ public class Hand {
 
     public Hand(List<Card> cardsInHand) {
         this.cardsInHand = cardsInHand;
+        Collections.sort(cardsInHand);
     }
 
     public List<Card> getCardsInHand() {

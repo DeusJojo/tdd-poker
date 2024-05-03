@@ -1,24 +1,24 @@
 
-}
-java:S1118":Add a private constructor to hide the implicit public one.(œ±íé8™ØÅó1J$89f501a4-c340-4a3e-b001-3b0abd2f594a
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(±úÏÒÿÿÿÿÿ8™ØÅó1J$14a1e69b-a172-4a52-9751-9482c9daf3a7
 w
-java:S1068"/Remove this unused "ROYAL_FLUSH" private field.(óû—Ûùÿÿÿÿ8¨ñ–Åó1J$ae55de6b-cde4-49f0-9e95-8c7d26897310
+java:S1068"/Remove this unused "ROYAL_FLUSH" private field.(óû—Ûùÿÿÿÿ8¨ñ–Åó1J$27e76c7a-5be9-4bbb-a98a-83d30d1f15a4
 u
-java:S1068"2Remove this unused "STRAIGHT_FLUSH" private field.(Ÿ‰¨ˆ8 ØÅó1J$8f5c9c05-c1b5-40d1-b9da-4bbe39581539
+java:S1068"2Remove this unused "STRAIGHT_FLUSH" private field.(Ÿ‰¨ˆ8 ØÅó1J$11aa15f2-aeb7-41c6-8f85-d8ff84ec3990
 z
-java:S1068"2Remove this unused "FOUR_OF_A_KIND" private field.(¯¤šØşÿÿÿÿ8Ã¸Åó1J$a4dae38e-15f2-4f36-a751-dcd4b60f9084
+java:S1068"2Remove this unused "FOUR_OF_A_KIND" private field.(¯¤šØşÿÿÿÿ8Ã¸Åó1J$ae61f42d-e5a3-4dc4-9ec7-6d0335cdaa41
 q
-java:S1068".Remove this unused "FULL_HOUSE" private field.(ı”ûæ8Ë·‘Åó1J$8c8082c3-3bc5-4c4e-a98f-bfa400cbee36
+java:S1068".Remove this unused "FULL_HOUSE" private field.(ı”ûæ8Ë·‘Åó1J$0a5c932a-a04f-4cd2-b1c7-b0aa68df0bf6
 q
-java:S1068")Remove this unused "FLUSH" private field.(¯¥ú˜ÿÿÿÿÿ8Îü‘Åó1J$766a5f18-5578-4e10-904c-a59158ee41f5
+java:S1068")Remove this unused "FLUSH" private field.(¯¥ú˜ÿÿÿÿÿ8Îü‘Åó1J$ca318235-d65c-4e21-8d72-cf09b7c42607
 t
-java:S1068	",Remove this unused "STRAIGHT" private field.(ãÀè›úÿÿÿÿ8­Ñ’Åó1J$9abe8ec6-57f9-429d-a88a-439bcae9a31e
+java:S1068	",Remove this unused "STRAIGHT" private field.(ãÀè›úÿÿÿÿ8­Ñ’Åó1J$06fcf566-b4b3-4fe8-8326-89f2734817da
 v
 java:S1068
-"3Remove this unused "THREE_OF_A_KIND" private field.(­Ç8œ¬“Åó1J$34389223-84cf-4a2c-8a08-615021aaaa8a
+"3Remove this unused "THREE_OF_A_KIND" private field.(­Ç8œ¬“Åó1J$1ef466a2-7f49-44c0-8f53-ae9363332201
 t
-java:S1068",Remove this unused "TWO_PAIR" private field.(äƒ»…úÿÿÿÿ8§ó”Åó1J$cd085998-0f6b-4116-825c-4874ea6929fa
+java:S1068",Remove this unused "TWO_PAIR" private field.(äƒ»…úÿÿÿÿ8§ó”Åó1J$5b19cbe6-3930-45b2-a5ec-924c3ed1d6d6
 t
-java:S1068",Remove this unused "ONE_PAIR" private field.(çş¤ûÿÿÿÿ8´––Åó1J$2b2283c8-b092-4a04-886f-8e39ed999542
+java:S1068",Remove this unused "ONE_PAIR" private field.(çş¤ûÿÿÿÿ8´––Åó1J$5867422a-beb3-4250-b0d7-47f03ac947fd
 u
-java:S1068"-Remove this unused "HIGH_CARD" private field.(ûƒåÀüÿÿÿÿ8©ñ–Åó1J$83687d8b-c2d2-42e9-93f9-fd0a832c2313
+java:S1068"-Remove this unused "HIGH_CARD" private field.(ûƒåÀüÿÿÿÿ8©ñ–Åó1J$ed4dc9a0-cd99-4104-832e-0bfa96668964
