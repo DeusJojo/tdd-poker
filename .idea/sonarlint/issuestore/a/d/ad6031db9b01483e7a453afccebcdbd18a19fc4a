@@ -1,3 +1,5 @@
 
-}
-java:S1118":Add a private constructor to hide the implicit public one.(—ïøÙ8Ì—´éó1J$1def901c-07bf-4b77-874e-62f1d45df715
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 67 to the 15 allowed.(Ÿ¯¼Æ8çà¢‘õ1J$0b284ba1-b48c-4cb5-9499-f302da5c204a
+‰
+java:S6541"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 89 to 64, Complexity from 34 to 14, Nesting Level from 5 to 2, Number of Variables from 17 to 6.(Ÿ¯¼Æ8üà¢‘õ1J$fa22c018-2ee8-4147-bd0e-525a040449cf

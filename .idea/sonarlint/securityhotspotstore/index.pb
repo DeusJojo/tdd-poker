@@ -21,19 +21,19 @@ W
 'src/main/java/fr/jojo/classe/color.java,2\3\23aa226d246687c1fd6544ab6a6f15b16e5892fb
 W
 'src/main/java/fr/jojo/classe/Color.java,c\9\c990410d29483ee522ad1e9c72a3e94cdf75060e
-_
-/src/main/java/fr/jojo/classe/Configuration.java,a\7\a76bfde68badbd3779a6859e0b4bc8804eae1564
 Y
 )src/test/java/fr/jojo/utils/PlayTest.java,a\7\a716314ea8afdfc41e4c1e9240da20ad195fc289
 X
 (src/main/java/fr/jojo/classe/player.java,1\3\1335e15bb686c3a4e605abacf8c196ec8ea07f16
 X
 (src/main/java/fr/jojo/classe/Player.java,6\6\66856076582f60ca3034ecb40daa780cef66e6f5
-]
--src/main/java/fr/jojo/classe/Conbinaison.java,d\e\debaa96e97a161c59988d7f263c29b47c3a2edb2
-]
--src/main/java/fr/jojo/classe/Combinaison.java,a\a\aaade609730e396fd2a78da0e6d41c730d235d2c
 a
 1src/test/java/fr/jojo/classe/CombinaisonTest.java,6\0\606e2559149397c3bd7c791402a1a34aef017bcd
 ]
 -src/main/java/fr/jojo/classe/Combination.java,0\a\0a2418d13e176300974c92beaaf1819218fd3f83
+O
+src/main/java/fr/jojo/main.java,5\9\592605910db684adc01b8009e0f63ea81487435b
+O
+src/main/java/fr/jojo/Main.java,9\a\9a38009cab5019a613ba0be85487ff02180789c2
+a
+1src/main/java/fr/jojo/classe/CombinationName.java,e\0\e0bbb5c449b139916437eb6ba59d11b6c8ba4864

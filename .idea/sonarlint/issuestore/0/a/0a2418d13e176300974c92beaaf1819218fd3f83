@@ -1,15 +1,3 @@
 
-Ä
-java:S1186:"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(èô×ú8øÇ×îó1J$5f5f083d-a08b-44b5-96ec-51e763926aab
-
-java:S4144I"]Update this method so that its implementation is not identical to "isFourOfAKind" on line 17.(ö–ö¼ûÿÿÿÿ8¨±Üîó1
-{
-java:S3400&"9Remove this method and declare a constant for this value.(¸®Ã'8ÇàÖîó1J$0a861c70-e1e6-45ae-b479-8503070637cd
-s
-java:S1172$"+Remove this unused method parameter "hand".(§÷šÿÿÿÿÿÿ8ÈàÖîó1J$2b3ceb1c-0c5b-4cfb-87f9-adaa80f18943
-{
-java:S3400>"9Remove this method and declare a constant for this value.(¸®Ã'8ËàÖîó1J$de11eec7-f61b-466c-bea4-6e6b50e2637d
-{
-java:S3400B"9Remove this method and declare a constant for this value.(¸®Ã'8ËàÖîó1J$5e84f307-626a-4a66-96c0-6196a74e53fe
-{
-java:S3400F"9Remove this method and declare a constant for this value.(¸®Ã'8ÌàÖîó1J$4b39f48e-9d1d-4dd8-9817-58629e344349
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(Ë®áûÿÿÿÿ8Ù§§îô1J$1a53a077-7741-4114-becb-9dc937680ae9
